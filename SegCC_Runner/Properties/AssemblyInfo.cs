@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("AoC_Template")]
+[assembly: AssemblyTitle("SegCC_Runner")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("AoC_Template")]
+[assembly: AssemblyProduct("SegCC_Runner")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("d1df8faf-f569-4c35-8b11-e297def33512")]
+[assembly: Guid("2fc5c7d5-fe7e-4e8f-b849-2050e8a3b363")]
 
 // Version information for an assembly consists of the following four values:
 //

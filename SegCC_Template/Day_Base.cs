@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AoC_Template
+namespace SegCC_Template
 {
     public abstract class Day_base {
 
