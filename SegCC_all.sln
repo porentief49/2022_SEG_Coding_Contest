@@ -7,7 +7,7 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SegCC_vb", "AoC_vb\SegCC_vb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SegCC_cs", "AoC_cs\SegCC_cs.csproj", "{7AA9EEA0-06CD-4AB1-9BDC-08928D2260D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Runner", "AoC_Runner\Runner.csproj", "{2FC5C7D5-FE7E-4E8F-B849-2050E8A3B363}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SegCC_Runner", "AoC_Runner\SegCC_Runner.csproj", "{2FC5C7D5-FE7E-4E8F-B849-2050E8A3B363}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SegCC_Template", "AoC_Template\SegCC_Template.csproj", "{D1DF8FAF-F569-4C35-8B11-E297DEF33512}"
 EndProject

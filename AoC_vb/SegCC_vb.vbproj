@@ -6,9 +6,9 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{E5314611-AE33-472F-A7B0-BAD78F7D19F0}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>AoC_vb.Main</StartupObject>
-    <RootNamespace>AoC_vb</RootNamespace>
-    <AssemblyName>AoC_vb</AssemblyName>
+    <StartupObject>SegCC_vb.Main</StartupObject>
+    <RootNamespace>SegCC_vb</RootNamespace>
+    <AssemblyName>SegCC_vb</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>Console</MyType>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
@@ -37,7 +37,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>AoC_vb.xml</DocumentationFile>
+    <DocumentationFile>SegCC_vb.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -47,7 +47,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>AoC_vb.xml</DocumentationFile>
+    <DocumentationFile>SegCC_vb.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>

@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{2FC5C7D5-FE7E-4E8F-B849-2050E8A3B363}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>AoC_Runner</RootNamespace>
-    <AssemblyName>AoC_Runner</AssemblyName>
+    <RootNamespace>SegCC_Runner</RootNamespace>
+    <AssemblyName>SegCC_Runner</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -7,8 +7,8 @@
     <ProjectGuid>{D1DF8FAF-F569-4C35-8B11-E297DEF33512}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>AoC_Template</RootNamespace>
-    <AssemblyName>AoC_Template</AssemblyName>
+    <RootNamespace>SegCC_Template</RootNamespace>
+    <AssemblyName>SegCC_Template</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
