@@ -51,9 +51,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AoC_Template\AoC_Template.csproj">
+    <ProjectReference Include="..\AoC_Template\SegCC_Template.csproj">
       <Project>{d1df8faf-f569-4c35-8b11-e297def33512}</Project>
-      <Name>AoC_Template</Name>
+      <Name>SegCC_Template</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

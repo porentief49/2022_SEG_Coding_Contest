@@ -53,17 +53,17 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AoC_cs\AoC_cs.csproj">
+    <ProjectReference Include="..\AoC_cs\SegCC_cs.csproj">
       <Project>{7aa9eea0-06cd-4ab1-9bdc-08928d2260d7}</Project>
-      <Name>AoC_cs</Name>
+      <Name>SegCC_cs</Name>
     </ProjectReference>
-    <ProjectReference Include="..\AoC_Template\AoC_Template.csproj">
+    <ProjectReference Include="..\AoC_Template\SegCC_Template.csproj">
       <Project>{d1df8faf-f569-4c35-8b11-e297def33512}</Project>
-      <Name>AoC_Template</Name>
+      <Name>SegCC_Template</Name>
     </ProjectReference>
-    <ProjectReference Include="..\AoC_vb\AoC_vb.vbproj">
+    <ProjectReference Include="..\AoC_vb\SegCC_vb.vbproj">
       <Project>{e5314611-ae33-472f-a7b0-bad78f7d19f0}</Project>
-      <Name>AoC_vb</Name>
+      <Name>SegCC_vb</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
