@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{E5314611-AE33-472F-A7B0-BAD78F7D19F0}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>SegCC_vb.Main</StartupObject>
+    <StartupObject>SegCC_vb.Program</StartupObject>
     <RootNamespace>SegCC_vb</RootNamespace>
     <AssemblyName>SegCC_vb</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -84,8 +84,8 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Day_1.vb" />
-    <Compile Include="Main.vb" />
+    <Compile Include="Puzzle_00.vb" />
+    <Compile Include="Program.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
